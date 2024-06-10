@@ -1,4 +1,4 @@
-package com.example.accesslab_demo
+package com.accesslab.demo
 
 import io.flutter.embedding.android.FlutterActivity
 
