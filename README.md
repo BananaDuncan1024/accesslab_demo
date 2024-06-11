@@ -41,14 +41,11 @@ lib/
 │  ├─ app.dart # Stacked setting（Router, Singleton Service ...）
 │  ├─ app.config.dart # Load Project Environment setting
 │  ├─ app.environment.dart # Environment init
-│  ├─ app.firebase.dart # Firebase的設定
-│  ├─ app.notificaion.dart # 推播通知的設定(Awesome Notificaion)
 │
 ├─ services/ # common Service ex: api_service, base_service, auth_service
 │
 ├─ ui/
-│  ├─ common/ # 共用元件，包含 UI Guidline 的元件跟其他共用元件
-│  ├─ common/ # 共用元件，包含 UI Guidline 的元件跟其他共用元件
+│  ├─ common/ # common，include UI Guidline compoent
 │  ├─ dialogs/ # dialogs 
 │  ├─ views/ # page view - viewmodel & view put here
 
