@@ -57,7 +57,7 @@ lib/
 
 ![Alt text](Android_1.png)
 ![Alt text](Android_2.png)
-![Alt text](Android_2.png)
+![Alt text](Android_3.png)
 
 ### IOS
 
